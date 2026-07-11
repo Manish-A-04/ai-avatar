@@ -1,0 +1,49 @@
+# Python and Backend development
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+backend/.venv/
+backend/.env
+backend/last_detected_face.pkl
+backend/temp/*
+backend/models/
+
+# Generated Media (excluding directories structure)
+backend/media/audio/*
+!backend/media/audio/.gitkeep
+backend/media/videos/*
+!backend/media/videos/.gitkeep
+
+# Third-party vendor repositories (cloned public repo)
+backend/wav2lip/
+
+# JavaScript / Node / Frontend development
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+frontend/.env
+frontend/.env.local
+frontend/.eslintcache
+
+# Logs and debug files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# OS and IDE configuration files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
