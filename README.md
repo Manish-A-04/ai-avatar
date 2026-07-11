@@ -4,6 +4,18 @@ This project is an AI Avatar Assistant system comprising a React frontend and a 
 
 ---
 
+## User Interface and Demonstration
+
+The user interface of the frontend dashboard:
+
+![Frontend User Interface](1.png)
+
+A demonstration video showing the system's generated output can be played below:
+
+<video src="7163e23b-237c-4eaf-9bb4-ee73f4fecc89.mp4" width="100%" controls></video>
+
+---
+
 ## Architecture Overview
 
 The application is split into two main sections: a frontend client interface and a backend API server.
