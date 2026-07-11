@@ -174,9 +174,3 @@ Open http://localhost:5173 in your browser to run the interface.
 
 ---
 
-## Coding Standards
-
-Code files under backend/app and frontend/src adhere to the following formatting standards:
-- All imports are declared at the top of files.
-- No unused imports or unused functions remain in source files.
-- No docstrings or comments are preserved within the main application source files.
