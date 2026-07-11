@@ -12,7 +12,11 @@ The user interface of the frontend dashboard:
 
 A demonstration video showing the system's generated output can be played below:
 
-<video src="7163e23b-237c-4eaf-9bb4-ee73f4fecc89.mp4" width="100%" controls></video>
+<video src="https://raw.githubusercontent.com/Manish-A-04/ai-avatar/master/7163e23b-237c-4eaf-9bb4-ee73f4fecc89.mp4" width="100%" controls></video>
+
+Alternatively, you can watch it by clicking the link below:
+
+[Watch Demonstration Video](https://github.com/Manish-A-04/ai-avatar/blob/master/7163e23b-237c-4eaf-9bb4-ee73f4fecc89.mp4)
 
 ---
 
