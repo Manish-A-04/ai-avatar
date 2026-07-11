@@ -12,7 +12,7 @@ The user interface of the frontend dashboard:
 
 A demonstration video showing the system's generated output can be played below:
 
-[Watch Demonstration Video](7163e23b-237c-4eaf-9bb4-ee73f4fecc89.mp4)
+[![Watch Demonstration Video](7163e23b-237c-4eaf-9bb4-ee73f4fecc89.mp4)]
 
 ---
 
